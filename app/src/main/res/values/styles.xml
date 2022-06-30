@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="MVA10MaterialDropdownMenuOutLinedLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+    <item name="boxStrokeColor">@color/my_color</item>
+    <item name="boxStrokeWidth">1dp</item>
+    <item name="strokeColor">#00ff00</item>
+    <item name="boxStrokeWidthFocused">1dp</item>
+    <item name="android:textColor">@color/my_color</item>
+    <item name="android:textColorHint">#00ff00</item>
+    <item name="boxCornerRadiusTopStart">6dp</item>
+    <item name="boxCornerRadiusTopEnd">6dp</item>
+    <item name="boxCornerRadiusBottomStart">6dp</item>
+    <item name="boxCornerRadiusBottomEnd">6dp</item>
+    <item name="errorTextColor">#00ff00</item>
+    <item name="hintTextColor">#00ff00</item>
+    <item name="helperTextTextColor">#00ff00</item>
+    <item name="errorIconDrawable">@null</item>
+
+    <item name="endIconTint">@color/my_color</item>
+</style>
+</resources>
